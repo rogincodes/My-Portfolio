@@ -9,7 +9,7 @@ const projectsData = [
     },
     {
         name: "My First Web Portfolio",
-        website: "",
+        website: "https://rogincodes.github.io/WSAT-Final-Project_Web-Portfolio/",
         image: "images/Web Portfolio.png",
         description: "This web portfolio served as our final project. It is the compilation of activities we have completed in our Web Systems and Technologies course. Note: It was my first experience with web development. So my codes are as messy as they can get, and the design is not very modern and aesthetic.",
         gitRepo: "https://github.com/rogincodes/WSAT-Final-Project_Web-Portfolio"
